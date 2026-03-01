@@ -24,7 +24,7 @@ Currently, I am heavily focused on preparing for the IIT JAM 2026 physics entran
 
 ### 📫 Let's Connect!
 * **Email:** dharmendra.p2023bph@srisriuniversity.edu.in
-* **LinkedIn:** [Add your LinkedIn URL here]
+* **LinkedIn:** www.linkedin.com/in/dharmendrapradhan2026
 
 ---
 ⭐️ *Always open to discussing physics, tech, financial markets, or a good novel!*

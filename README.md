@@ -4,10 +4,8 @@
 
 I am a 6th-semester B.Sc. Physics Honours student at Sri Sri University, currently holding the Rank 1 position in my class. My passion lies at the intersection of the physical sciences, software development, and hardware prototyping. Whether I am analyzing gamma-ray spectroscopy data or configuring a Linux virtual machine, I love building systems that solve complex problems. 
 
-Currently, I am heavily focused on preparing for the IIT JAM 2026 physics entrance exam while continuously expanding my technical toolkit.
 
 ### 🔭 What I'm Currently Working On
-* **IIT JAM 2026 Preparation:** Deepening my understanding of core physics concepts and practicing complex derivations.
 * **Open Source & Automation:** Documenting and deploying Telegram bots using OpenClaw on Kali Linux via Docker and the Gemini API.
 * **Hardware Prototyping:** Experimenting with electronics, including light-activated LED strip configurations using Arduino components. 
 * **Web Development:** Managing a personal project journal using WordPress on a local XAMPP server.

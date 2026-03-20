@@ -1,4 +1,4 @@
-# Hi there, I'm Dharmendra Pradhan! 👋
+# Hi there, I'm Dharmendra! 👋
 
 **Physics Honours Student | Rank 1 | Tech Enthusiast & Developer**
 
